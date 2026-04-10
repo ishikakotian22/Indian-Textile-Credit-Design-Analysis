@@ -1,0 +1,19 @@
+CREATE TABLE textile_designs (
+    product_id INT PRIMARY KEY,
+    brand_name VARCHAR(100),
+    brand_country VARCHAR(50),
+    platform VARCHAR(50),
+    category VARCHAR(50),
+    fabric VARCHAR(50),
+    color VARCHAR(50),
+    pattern VARCHAR(100),
+    price INT,
+    rating DECIMAL(2,1),
+    review_count INT,
+    occasion VARCHAR(50),
+    indian_design_influence VARCHAR(10),
+    credit_given VARCHAR(20),
+    credit_type VARCHAR(100),
+    price_markup_level VARCHAR(20));
+	select*from  textile_designs;
+	

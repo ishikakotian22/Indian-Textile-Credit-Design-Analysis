@@ -1,0 +1,9 @@
+product_id,brand_name,brand_country,platform,category,fabric,color,pattern,price,rating,review_count,occasion,indian_design_influence,credit_given,credit_type,price_markup_level
+ 1,FabIndia,India,Website,Saree,Cotton,Red,Ajrakh,2499,4.6,210,Festive,Yes,Yes,Artisan Mention,Low
+2,Biba,India,Myntra,Kurti,Silk,Blue,Bandhani,1899,4.4,150,Party,Yes,Yes,Cultural Credit,Low
+3,Zara,Spain,Website,Dress,Linen,White,Paisley,5990,4.2,95,Casual,Yes,No,None,High
+4,H&M,Sweden,Website,Top,Cotton,Yellow,Block Print,3499,4.1,80,Daily,Yes,Partial,Inspired Collection,Medium
+5,Dior,France,Runway,Gown,Silk,Gold,Zari,250000,4.9,40,Luxury,Yes,No,None,High
+6,Anouk,India,Myntra,Lehenga,Velvet,Maroon,Kantha,4999,4.7,130,Wedding,Yes,Yes,Artisan Mention,Medium
+7,Gucci,Italy,Runway,Jacket,Silk,Black,Ikat,180000,4.8,25,Luxury,Yes,Partial,Inspired By India,High
+8,Libas,India,Amazon,Dupatta,Chiffon,Pink,Phulkari,999,4.3,100,Casual,Yes,Yes,Craft Mention,Low
